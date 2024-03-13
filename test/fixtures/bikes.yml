@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  wheels: 1
+  usage: MyString
+
+two:
+  brand: MyString
+  wheels: 1
+  usage: MyString
