@@ -19,6 +19,8 @@ gem "jbuilder"
 
 gem "shakapacker", "= 7.2"
 
+gem "react-rails", "= 3.2"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
